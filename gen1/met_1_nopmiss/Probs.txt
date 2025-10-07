@@ -1,0 +1,3 @@
+Problemi: la ricostruzione ha altissima accuracy anche per molte rette. A volte anche con 1 sola retta non va la reco, e abbiamo delle rette non ricostruite.
+Che sia legato al fatto che abbiamo 3 punti sempre questa volta? Trova ogni volta la combinazione giusta? E quindi funziona bene ma ci mette tanto tempo?
+Da capire.
